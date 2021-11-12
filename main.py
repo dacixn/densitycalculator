@@ -20,7 +20,7 @@ calculate_volume = mass / density
 # print(calculate_mass)
 # print(calculate_volume)
 
-print(calculate_density)
+print()
 
 # ENTER THE VARIABLE THAT DEFINES WHAT YOU WANT TO CALCULATE BETWEEN THE BRACKETS
 
